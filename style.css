@@ -5,8 +5,7 @@
 /* colors */
 :root {    
     --color-background: rgb(226, 219, 238);     
-    --color-primary: rgb(150, 114, 227);
-    --color-light: rgb(240, 232, 208);
+    --color-primary: rgb(150, 114, 227);    
     --color-button-hover: rgb(207, 127, 241);
     --color-button-inactive: #bf97ea;
     --color-text: rgb(34, 5, 42);
