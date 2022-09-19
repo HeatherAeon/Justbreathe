@@ -5,10 +5,10 @@
 /* colors */
 :root {    
     --color-background: rgb(226, 219, 238);     
-    --color-primary: rgb(150, 114, 227);    
-    --color-button-hover: rgb(207, 127, 241);
-    --color-button-inactive: #bf97ea;
-    --color-text: rgb(34, 5, 42);
+    --color-primary: rgb(18, 20, 90);    
+    --color-button-hover: rgb(120, 71, 244);
+    --color-button-inactive: #5592f4;
+    --color-text: rgb(151, 224, 241);
 }
 
 /* Reset */
@@ -40,6 +40,7 @@ body {
     text-align: center;
     font-size: 18px;
     margin-bottom: 8px;
+    
   }
 
   .input select {
