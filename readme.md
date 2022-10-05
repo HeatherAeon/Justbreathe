@@ -1,3 +1,3 @@
 Learning more javascript
 
-https://heatheraeon.github.io/meditationapp/
+https://heatheraeon.github.io/Justbreathe/
